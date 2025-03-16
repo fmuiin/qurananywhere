@@ -66,11 +66,9 @@ Follow these steps to run the project locally:
    
 ## Usage
 
-Home Page: Start your journey with an overview of features and a "Start Reading" button.
-
-Quran Page: Browse all Surahs, search, and view your bookmarked verses and favorite Surahs.
-
-Surah Detail Page: Read verses, listen to recitations, and bookmark specific verses with a star icon.
+- Home Page: Start your journey with an overview of features and a "Start Reading" button.
+- Quran Page: Browse all Surahs, search, and view your bookmarked verses and favorite Surahs.
+- Surah Detail Page: Read verses, listen to recitations, and bookmark specific verses with a star icon.
 
 ### Dark Mode
 Toggle dark mode using the sun/moon icon in the navbar. Your preference is saved across sessions.
