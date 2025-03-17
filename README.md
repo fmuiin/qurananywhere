@@ -1,6 +1,6 @@
 # Quran Anywhere
 
-![Quran Anywhere Logo](https://via.placeholder.com/150) <!-- Replace with your logo URL if you have one -->
+![Quran Anywhere Logo](public/img/qa.png)
 
 A modern, responsive web application built with Vue.js to explore the Holy Quran. Read, listen, search, and bookmark Surahs and verses with an elegant Islamic blue-green themed interface. Perfect for users seeking a seamless Quran experience anytime, anywhere.
 
