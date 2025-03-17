@@ -23,7 +23,7 @@ A modern, responsive web application built with Vue.js to explore the Holy Quran
 
 ## Demo
 
-Check out the live demo: [Quran Anywhere Demo](#) <!-- Replace with your deployed URL -->
+Check out the live demo: [Quran Anywhere Demo](https://qurananywhere.vercel.app/) <!-- Replace with your deployed URL -->
 
 ## Tech Stack
 
