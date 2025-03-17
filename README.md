@@ -17,7 +17,7 @@ A modern, responsive web application built with Vue.js to explore the Holy Quran
 
 | Home Page (Light Mode) | Quran Page (Dark Mode) | Surah Detail (Light Mode) |
 |-----------------------|------------------------|---------------------------|
-| ![Home Light](https://via.placeholder.com/300x200.png?text=Home+Light) | ![Quran Dark](https://via.placeholder.com/300x200.png?text=Quran+Dark) | ![Surah Light](https://via.placeholder.com/300x200.png?text=Surah+Light) |
+| ![Home Light](public/img/homelight.png) | ![Quran Dark](public/img/dark.png) | ![Surah Light](public/img/surahlight.png) |
 
 *Note: Replace placeholders with actual screenshots after deployment.*
 
@@ -30,7 +30,7 @@ Check out the live demo: [Quran Anywhere Demo](#) <!-- Replace with your deploye
 - **Frontend**: Vue.js 3, Vue Router
 - **Styling**: Tailwind CSS with custom Islamic blue-green theme
 - **Icons**: Font Awesome
-- **API**: [Al Quran Cloud API](http://api.alquran.cloud/)
+- **API**: [Al Quran Cloud API](https://alquran.cloud/api)
 - **Storage**: Browser `localStorage` for favorites and bookmarks
 - **Build Tool**: Vite
 
@@ -50,7 +50,6 @@ Follow these steps to run the project locally:
    git clone https://github.com/your-username/quran-anywhere.git
    cd quran-anywhere
    Install Dependencies:
-
 
 2. **Install Dependencies**:
    ```bash
@@ -112,6 +111,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or feedback, reach out to me:
-- GitHub: your-username
-- Email: your-email@example.com
+- GitHub: fmuiin
+- Email: fmuiin14@gmail.com
 
