@@ -131,8 +131,16 @@ export default {
     playSurah() {
       this.currentAyahIndex = 0;
       this.playCurrentAyah();
+      
+      // Add event listener to play next ayah when current one ends
+      const audioPlayer = this.$refs.audioPlayer;
+      audioPlayer.addEventListener('ended', this.playNextAyah);
     },
     playSingleAyah(index) {
+      // Remove previous event listener if exists
+      const audioPlayer = this.$refs.audioPlayer;
+      audioPlayer.removeEventListener('ended', this.playNextAyah);
+      
       this.currentAyahIndex = index;
       this.playCurrentAyah();
     },
